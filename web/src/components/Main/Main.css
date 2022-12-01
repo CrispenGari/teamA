@@ -1,0 +1,22 @@
+.main {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0px auto;
+  padding: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  user-select: none;
+  user-zoom: none;
+}
+.main__left {
+  flex: 0.3;
+  background-color: red;
+}
+.main__right {
+  flex: 0.4;
+  background-color: blue;
+}
+.main__center {
+  flex: 0.6;
+}

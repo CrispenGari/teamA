@@ -1,0 +1,19 @@
+
+# getting all the graves
+http://localhost:3001/api/v1/graves/create
+
+
+### Getting a single grave
+POST  http://localhost:3001/api/v1/graves/create
+
+Content-Type: application/json
+{
+
+}
+
+
+### Creating a new Record
+
+### Deleting a Grave
+
+### Updating a grave
